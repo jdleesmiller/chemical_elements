@@ -1,8 +1,8 @@
-= Periodic Table Testing Exercise
+# Periodic Table Testing Exercise
 
 *Warning:* This code contains bugs. The exercise is to design a test plan and find the bugs.
 
-== Brief
+## Brief
 
 We are building an educational software package that models the [periodic table of the elements](https://en.wikipedia.org/wiki/Periodic_table) and can display some simple chemical compounds. For this, we've built a `ChemicalElement` class. It needs to be tested.
 
@@ -32,6 +32,6 @@ For instance: ClNa instead NaCl.
 
 We need to be able to order chemical formulas using either system.
 
-== Credits
+## Credits
 
 This exercise is based on http://www.home.hs-karlsruhe.de/~pach0003/informatik_1/aufgaben/en/objects.html#chemical_element
